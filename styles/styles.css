@@ -1,0 +1,106 @@
+.barra{
+    width: 100%;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.barra2{
+    float: left;
+    width: 33.33%;
+}
+#nav{
+    background-color: #808080;
+    text-align: center;
+    
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-right: 1px solid #2A2A2A;
+    padding: 20px 0px;
+}
+.x{
+    border-left: 1px solid #2A2A2A;
+}
+li a:visited{
+    color: #EAEAEC;
+}
+li a:hover{
+    background-color: #555555;
+    color: white;
+}
+#Head{
+    padding-top: 45px;
+    background-color: #2A2A2A;
+    color: white;
+}
+#foot{
+    background-color: #2A2A2A;
+    color: white;
+    height: 125px;
+}
+.col-12{
+    background-color: #D4D4D4;
+    color: black;
+}
+
+.col-2{
+    background-color: grey;
+}
+.col-10{
+    background-color: lightsteelblue;
+}
+h1{
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px black;
+}
+.foto{
+    margin-top: 15px;
+    border-radius: 100px;
+}
+#img{
+    text-align: center;
+}
+.col-md-4{
+    padding-top: 15px;
+    background-color: #AAAAAA;
+
+}
+.col-md-8{
+    padding-top: 45px;
+}
+.info{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.RP{
+    padding-top: 10px;
+}
+footer{
+    margin: 10px;
+}
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section{
+    padding-left: 15px;
+}
+#aaa{
+    height: 1000px;
+}
+.LD{
+    text-align: center;
+    margin-top: 20px;
+}
+.texto{
+    margin-bottom: 5px;
+}
+.contactos{
+    display: none;
+}
